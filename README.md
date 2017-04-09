@@ -11,7 +11,7 @@ Show restaurants reviews, photos, and grading records.
 Provide location of the restaurant
 
 ## How I built it
-with swift
+swift, Yelp API, Parse Server, San Francisco Data json file
 
 ## Challenges I ran into
 Importing datasets from JSON file and API
